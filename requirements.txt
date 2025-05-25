@@ -3,3 +3,4 @@ pillow
 opencv-python
 ezdxf
 numpy
+cv2
